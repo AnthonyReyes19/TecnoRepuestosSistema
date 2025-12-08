@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AnthonyReyes19/TecnoRepuestosSistema/issues"
   },
-  "homepage": "https://github.com/AnthonyReyes19/TecnoRepuestosSistema#readme"
+  "homepage": "https://github.com/AnthonyReyes19/TecnoRepuestosSistema#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
